@@ -17,7 +17,7 @@ func main() {
 		}
 
 	}
-	person2 := person1("ali", "hasan")
+	person2 := person1("ali", "hasani")
 	person2.Getage()
 	fmt.Println(person2.age)
 	fmt.Println(person2.Getage())
